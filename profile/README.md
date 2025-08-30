@@ -3,7 +3,7 @@
 
 <div style="text-align: center">
   <a href="https://roblox-brainrot-money.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Rblbstealbrainboint-blueviolet">
+    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Steal Brainrot_Script-blueviolet">
   </a>
 </div>
 
